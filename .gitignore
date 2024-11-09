@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+./venv/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# Dependency directories
+pip-wheel-metadata/
+*.egg-info/
